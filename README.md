@@ -1,2 +1,2 @@
-# biscuicraft-launcher
+# Biscuicraft Launcher
 Launcher de Biscuicraft
