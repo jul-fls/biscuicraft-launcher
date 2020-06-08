@@ -1,9 +1,7 @@
 package fr.biscuicraft.launcher;
 
 import javax.swing.JFrame;
-
 import com.sun.awt.AWTUtilities;
-
 import fr.theshark34.openlauncherlib.util.CrashReporter;
 import fr.theshark34.swinger.Swinger;
 import fr.theshark34.swinger.animation.Animator;
