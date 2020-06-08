@@ -39,3 +39,4 @@ public class LauncherFrame extends JFrame {
 	public LauncherPanel getLauncherPanel() {return launcherPanel;}
 	public static CrashReporter getCrashReporter() {return crashReporter;}
 }
+.
