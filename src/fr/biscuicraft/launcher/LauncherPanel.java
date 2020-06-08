@@ -281,3 +281,4 @@ public class LauncherPanel extends JPanel implements SwingerEventListener {
 	}
 	
 }
+.
